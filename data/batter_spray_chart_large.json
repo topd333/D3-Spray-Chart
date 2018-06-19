@@ -1,0 +1,9291 @@
+[
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "-29.064",
+		"distance": "12.02682561",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "-28.303",
+		"distance": "30.47284358",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "-21.820",
+		"distance": "3.88707755",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "-23.473",
+		"distance": "309.9241459",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "40.919",
+		"distance": "3.622551085",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "36.663",
+		"distance": "8.18273526",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "35.928",
+		"distance": "302.7031461",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "34.252",
+		"distance": "9.955294684",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "32.170",
+		"distance": "49.10663712",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "29.838",
+		"distance": "79.78567336",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "26.910",
+		"distance": "9.114576515",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "25.313",
+		"distance": "20.49278834",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "24.697",
+		"distance": "6.928834532",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "24.350",
+		"distance": "292.820305",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "24.306",
+		"distance": "7.331326419",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-07 0:00:00",
+		"direction": "23.789",
+		"distance": "349.5550941",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-02 0:00:00",
+		"direction": "23.584",
+		"distance": "22.66090682",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-02 0:00:00",
+		"direction": "23.213",
+		"distance": "324.820858",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-02 0:00:00",
+		"direction": "22.623",
+		"distance": "6.744448216",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-10-02 0:00:00",
+		"direction": "20.672",
+		"distance": "8.544156575",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-27 0:00:00",
+		"direction": "20.268",
+		"distance": "10.41039289",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-27 0:00:00",
+		"direction": "18.787",
+		"distance": "283.7519418",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-27 0:00:00",
+		"direction": "17.784",
+		"distance": "20.8344312",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-27 0:00:00",
+		"direction": "16.969",
+		"distance": "22.10391504",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-27 0:00:00",
+		"direction": "15.436",
+		"distance": "335.1422097",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-27 0:00:00",
+		"direction": "15.337",
+		"distance": "321.2587883",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-27 0:00:00",
+		"direction": "14.466",
+		"distance": "86.9200422",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-27 0:00:00",
+		"direction": "13.738",
+		"distance": "345.8635585",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-27 0:00:00",
+		"direction": "12.998",
+		"distance": "40.87731169",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-22 0:00:00",
+		"direction": "12.707",
+		"distance": "121.8265394",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-22 0:00:00",
+		"direction": "12.411",
+		"distance": "267.0724603",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-22 0:00:00",
+		"direction": "12.136",
+		"distance": "143.7019655",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "11.996",
+		"distance": "12.9981614",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "10.399",
+		"distance": "303.7497744",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "10.142",
+		"distance": "317.02649",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "9.626",
+		"distance": "241.5505926",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "9.049",
+		"distance": "182.2867158",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "7.890",
+		"distance": "6.011992916",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "5.709",
+		"distance": "308.6410922",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "5.599",
+		"distance": "350.5443346",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "5.414",
+		"distance": "35.78436462",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "4.104",
+		"distance": "350.1356722",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "3.992",
+		"distance": "368.6090217",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "3.965",
+		"distance": "254.1057649",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "3.392",
+		"distance": "216.3551177",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "1.174",
+		"distance": "71.22825657",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "0.051",
+		"distance": "9.176961239",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-0.096",
+		"distance": "92.51383441",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-0.178",
+		"distance": "7.469511809",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-0.648",
+		"distance": "69.43774386",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-1.432",
+		"distance": "280.512296",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-1.453",
+		"distance": "302.0828089",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-1.698",
+		"distance": "377.0499694",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-3.000",
+		"distance": "12.20832702",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-3.440",
+		"distance": "132.4339396",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-4.676",
+		"distance": "155.1414569",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-5.217",
+		"distance": "250.2963768",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-5.415",
+		"distance": "234.5320854",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-5.638",
+		"distance": "276.0377111",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-7.113",
+		"distance": "388.4130117",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-7.368",
+		"distance": "14.16401809",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-7.648",
+		"distance": "6.255965374",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-9.923",
+		"distance": "9.986320964",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-17 0:00:00",
+		"direction": "-10.039",
+		"distance": "287.8226853",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-12 0:00:00",
+		"direction": "-10.360",
+		"distance": "6.923986555",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-12 0:00:00",
+		"direction": "-10.547",
+		"distance": "11.09639117",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-12 0:00:00",
+		"direction": "-10.736",
+		"distance": "116.1291507",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-12 0:00:00",
+		"direction": "-13.451",
+		"distance": "344.9761671",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-07 0:00:00",
+		"direction": "-13.717",
+		"distance": "109.512603",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-07 0:00:00",
+		"direction": "-14.670",
+		"distance": "288.171385",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-07 0:00:00",
+		"direction": "-15.145",
+		"distance": "3.623418066",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-07 0:00:00",
+		"direction": "-18.353",
+		"distance": "282.7196108",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-07 0:00:00",
+		"direction": "-21.615",
+		"distance": "12.60950877",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-07 0:00:00",
+		"direction": "-22.492",
+		"distance": "293.5830152",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-07 0:00:00",
+		"direction": "-22.786",
+		"distance": "110.0904619",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-07 0:00:00",
+		"direction": "-22.984",
+		"distance": "296.5213263",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-07 0:00:00",
+		"direction": "-23.327",
+		"distance": "21.56763608",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-02 0:00:00",
+		"direction": "-27.871",
+		"distance": "9.610877272",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-02 0:00:00",
+		"direction": "-35.601",
+		"distance": "20.31166975",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-09-02 0:00:00",
+		"direction": "-41.335",
+		"distance": "6.616818524",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "-42.609",
+		"distance": "3.747100514",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "-43.326",
+		"distance": "27.01804451",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "-44.604",
+		"distance": "12.81012011",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "43.982",
+		"distance": "16.72463232",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "42.963",
+		"distance": "4.705209614",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "41.885",
+		"distance": "108.7191129",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "40.987",
+		"distance": "6.814452537",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "37.420",
+		"distance": "331.3960486",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "37.296",
+		"distance": "221.2461826",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "34.475",
+		"distance": "12.18211406",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "33.141",
+		"distance": "339.9734357",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "31.694",
+		"distance": "38.97057882",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "30.863",
+		"distance": "65.09954085",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-28 0:00:00",
+		"direction": "30.359",
+		"distance": "29.87751329",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-23 0:00:00",
+		"direction": "29.385",
+		"distance": "12.53012266",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-23 0:00:00",
+		"direction": "29.022",
+		"distance": "190.6761645",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-23 0:00:00",
+		"direction": "28.774",
+		"distance": "334.510815",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-18 0:00:00",
+		"direction": "28.279",
+		"distance": "56.01026082",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-18 0:00:00",
+		"direction": "27.110",
+		"distance": "293.1669203",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-18 0:00:00",
+		"direction": "26.294",
+		"distance": "305.5213172",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-18 0:00:00",
+		"direction": "26.069",
+		"distance": "217.2171914",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-18 0:00:00",
+		"direction": "22.770",
+		"distance": "10.45775293",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-13 0:00:00",
+		"direction": "21.964",
+		"distance": "80.6115919",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-13 0:00:00",
+		"direction": "21.826",
+		"distance": "306.7364917",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-13 0:00:00",
+		"direction": "21.799",
+		"distance": "44.1620985",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-13 0:00:00",
+		"direction": "21.569",
+		"distance": "223.5421518",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-08 0:00:00",
+		"direction": "19.591",
+		"distance": "128.1719404",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-08 0:00:00",
+		"direction": "19.169",
+		"distance": "9.802913802",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-08 0:00:00",
+		"direction": "18.587",
+		"distance": "14.31926104",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-08 0:00:00",
+		"direction": "17.821",
+		"distance": "12.29020144",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-08 0:00:00",
+		"direction": "17.307",
+		"distance": "47.39907136",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-08 0:00:00",
+		"direction": "16.270",
+		"distance": "67.48614498",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-03 0:00:00",
+		"direction": "15.188",
+		"distance": "9.427730298",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-03 0:00:00",
+		"direction": "14.612",
+		"distance": "296.1183045",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-03 0:00:00",
+		"direction": "14.612",
+		"distance": "12.82184794",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-08-03 0:00:00",
+		"direction": "13.751",
+		"distance": "8.60632234",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-29 0:00:00",
+		"direction": "13.601",
+		"distance": "20.02823785",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-29 0:00:00",
+		"direction": "12.867",
+		"distance": "136.8199204",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-29 0:00:00",
+		"direction": "12.475",
+		"distance": "14.48491924",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-29 0:00:00",
+		"direction": "12.255",
+		"distance": "88.47608217",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-29 0:00:00",
+		"direction": "12.042",
+		"distance": "268.9302836",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-29 0:00:00",
+		"direction": "10.871",
+		"distance": "8.275857988",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-29 0:00:00",
+		"direction": "10.687",
+		"distance": "32.59550697",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-29 0:00:00",
+		"direction": "10.279",
+		"distance": "250.6024788",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-29 0:00:00",
+		"direction": "9.704",
+		"distance": "165.9930655",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-24 0:00:00",
+		"direction": "8.760",
+		"distance": "14.92937973",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-24 0:00:00",
+		"direction": "8.498",
+		"distance": "49.99596218",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-24 0:00:00",
+		"direction": "7.708",
+		"distance": "20.34331199",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "7.334",
+		"distance": "71.90414586",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "7.144",
+		"distance": "72.73814094",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "6.010",
+		"distance": "213.9200464",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "4.365",
+		"distance": "19.50826352",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "3.514",
+		"distance": "71.49512855",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "3.338",
+		"distance": "263.3331901",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "2.950",
+		"distance": "339.749255",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "2.478",
+		"distance": "4.945568789",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "2.166",
+		"distance": "327.2741066",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "0.900",
+		"distance": "293.3870057",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "0.015",
+		"distance": "10.22560296",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-0.581",
+		"distance": "37.15516971",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-0.693",
+		"distance": "341.4364653",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-0.991",
+		"distance": "283.3096019",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-1.289",
+		"distance": "284.1342047",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-1.879",
+		"distance": "46.51174137",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-1.881",
+		"distance": "260.4957301",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-1.981",
+		"distance": "261.619121",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-4.835",
+		"distance": "280.5601385",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-4.949",
+		"distance": "212.5105788",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-5.440",
+		"distance": "284.0727973",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-5.507",
+		"distance": "340.5356186",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-5.606",
+		"distance": "348.1552111",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-5.740",
+		"distance": "137.0736673",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-5.863",
+		"distance": "109.3157514",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-5.937",
+		"distance": "305.8180662",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-6.373",
+		"distance": "302.4948668",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-6.433",
+		"distance": "284.1763891",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-6.452",
+		"distance": "354.1596667",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-6.609",
+		"distance": "317.9173642",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-6.679",
+		"distance": "359.1107447",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-19 0:00:00",
+		"direction": "-6.834",
+		"distance": "274.1289025",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-14 0:00:00",
+		"direction": "-7.771",
+		"distance": "7.040324224",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-14 0:00:00",
+		"direction": "-8.024",
+		"distance": "31.24037395",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-14 0:00:00",
+		"direction": "-9.111",
+		"distance": "134.8058827",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-14 0:00:00",
+		"direction": "-9.189",
+		"distance": "291.2152973",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-09 0:00:00",
+		"direction": "-9.700",
+		"distance": "339.7215023",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-09 0:00:00",
+		"direction": "-11.107",
+		"distance": "177.6306641",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-09 0:00:00",
+		"direction": "-11.860",
+		"distance": "142.8186256",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-09 0:00:00",
+		"direction": "-12.088",
+		"distance": "9.203754938",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-09 0:00:00",
+		"direction": "-12.389",
+		"distance": "134.3821894",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-09 0:00:00",
+		"direction": "-12.848",
+		"distance": "321.3264804",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-09 0:00:00",
+		"direction": "-13.030",
+		"distance": "11.90811191",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-09 0:00:00",
+		"direction": "-13.193",
+		"distance": "7.323860248",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-09 0:00:00",
+		"direction": "-13.405",
+		"distance": "30.85430878",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-04 0:00:00",
+		"direction": "-13.595",
+		"distance": "161.4869201",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-04 0:00:00",
+		"direction": "-13.697",
+		"distance": "347.8189211",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-07-04 0:00:00",
+		"direction": "-13.814",
+		"distance": "16.29505335",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-14.499",
+		"distance": "21.90645739",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-15.491",
+		"distance": "340.086438",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-15.508",
+		"distance": "47.10841189",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-17.189",
+		"distance": "15.29581454",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-17.302",
+		"distance": "234.6903767",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-18.406",
+		"distance": "7.259700706",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-18.694",
+		"distance": "9.739360304",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-19.188",
+		"distance": "4.046038295",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-19.852",
+		"distance": "99.38708088",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-21.109",
+		"distance": "153.4913825",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-23.633",
+		"distance": "374.6777201",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-24.059",
+		"distance": "279.1864552",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-24.294",
+		"distance": "141.8252741",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-25.060",
+		"distance": "302.6762303",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-25.351",
+		"distance": "8.178103445",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-25.619",
+		"distance": "38.83234375",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-27.359",
+		"distance": "9.849173771",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-27.458",
+		"distance": "319.3208401",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-28.138",
+		"distance": "130.0534574",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-28.793",
+		"distance": "247.4987035",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-29.079",
+		"distance": "13.61880749",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-29.518",
+		"distance": "33.55860835",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-30.721",
+		"distance": "120.8335977",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-30.986",
+		"distance": "41.17147344",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-36.437",
+		"distance": "65.85420363",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-37.023",
+		"distance": "66.82309107",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-39.789",
+		"distance": "61.85061303",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "-40.649",
+		"distance": "39.01059049",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "42.580",
+		"distance": "48.63375832",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "37.772",
+		"distance": "3.780123935",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "36.237",
+		"distance": "78.60788139",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-29 0:00:00",
+		"direction": "35.418",
+		"distance": "112.9974593",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-24 0:00:00",
+		"direction": "34.621",
+		"distance": "12.59720855",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-24 0:00:00",
+		"direction": "33.515",
+		"distance": "268.1122408",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-24 0:00:00",
+		"direction": "33.375",
+		"distance": "120.2262482",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-24 0:00:00",
+		"direction": "31.029",
+		"distance": "31.59483144",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-19 0:00:00",
+		"direction": "30.251",
+		"distance": "177.8374651",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-19 0:00:00",
+		"direction": "29.407",
+		"distance": "223.485123",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-19 0:00:00",
+		"direction": "28.413",
+		"distance": "5.944059606",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-19 0:00:00",
+		"direction": "27.129",
+		"distance": "240.1763046",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-19 0:00:00",
+		"direction": "27.037",
+		"distance": "192.4252867",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-19 0:00:00",
+		"direction": "26.765",
+		"distance": "17.55700948",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-19 0:00:00",
+		"direction": "26.146",
+		"distance": "65.38224483",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-19 0:00:00",
+		"direction": "25.411",
+		"distance": "9.725882923",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-19 0:00:00",
+		"direction": "24.216",
+		"distance": "40.59439902",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-14 0:00:00",
+		"direction": "24.182",
+		"distance": "377.7804254",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-14 0:00:00",
+		"direction": "22.630",
+		"distance": "17.6013856",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-14 0:00:00",
+		"direction": "22.509",
+		"distance": "24.4345002",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "21.590",
+		"distance": "180.6032334",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "20.912",
+		"distance": "54.38642163",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "15.870",
+		"distance": "406.3166111",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "14.303",
+		"distance": "6.158377218",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "12.234",
+		"distance": "269.4651507",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "12.117",
+		"distance": "10.55485958",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "11.691",
+		"distance": "253.1303306",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "8.895",
+		"distance": "55.97348295",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "7.584",
+		"distance": "244.9401066",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "7.386",
+		"distance": "90.24299049",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "6.801",
+		"distance": "249.7826624",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "6.432",
+		"distance": "15.15025554",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "6.251",
+		"distance": "7.186878623",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "5.432",
+		"distance": "242.3523468",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "4.874",
+		"distance": "251.7232675",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "4.745",
+		"distance": "158.8778211",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "3.212",
+		"distance": "33.61998348",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "1.299",
+		"distance": "329.5854972",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "0.827",
+		"distance": "325.7861557",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "0.152",
+		"distance": "244.5585814",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-0.467",
+		"distance": "144.8789848",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-1.348",
+		"distance": "141.5375924",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-2.413",
+		"distance": "14.77107562",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-2.595",
+		"distance": "8.205723357",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-3.122",
+		"distance": "208.6744446",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-3.156",
+		"distance": "121.5813226",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-3.509",
+		"distance": "67.13244253",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-4.919",
+		"distance": "224.7646129",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-5.195",
+		"distance": "35.16744987",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-5.832",
+		"distance": "14.82788452",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-7.444",
+		"distance": "309.4709464",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-09 0:00:00",
+		"direction": "-8.152",
+		"distance": "349.0476845",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-04 0:00:00",
+		"direction": "-8.155",
+		"distance": "231.4973719",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-04 0:00:00",
+		"direction": "-9.567",
+		"distance": "176.0101153",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-04 0:00:00",
+		"direction": "-10.429",
+		"distance": "81.16469241",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-06-04 0:00:00",
+		"direction": "-10.928",
+		"distance": "19.05967075",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-30 0:00:00",
+		"direction": "-11.170",
+		"distance": "10.58294837",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-30 0:00:00",
+		"direction": "-11.196",
+		"distance": "179.5306191",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-30 0:00:00",
+		"direction": "-12.108",
+		"distance": "172.9994075",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-30 0:00:00",
+		"direction": "-12.460",
+		"distance": "292.0479577",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-30 0:00:00",
+		"direction": "-14.305",
+		"distance": "98.76413881",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-30 0:00:00",
+		"direction": "-14.549",
+		"distance": "10.62452247",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-30 0:00:00",
+		"direction": "-14.912",
+		"distance": "308.8894591",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-30 0:00:00",
+		"direction": "-14.923",
+		"distance": "330.2593112",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-30 0:00:00",
+		"direction": "-15.953",
+		"distance": "320.3268145",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-25 0:00:00",
+		"direction": "-16.334",
+		"distance": "244.1192846",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-25 0:00:00",
+		"direction": "-16.632",
+		"distance": "354.0587858",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-25 0:00:00",
+		"direction": "-16.645",
+		"distance": "199.9555853",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-17.390",
+		"distance": "9.068498708",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-18.238",
+		"distance": "190.9135942",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-18.754",
+		"distance": "162.4195185",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-20.009",
+		"distance": "10.25904598",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-20.351",
+		"distance": "8.405677525",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-21.631",
+		"distance": "169.3156219",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-22.350",
+		"distance": "371.7528735",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-23.258",
+		"distance": "297.7604835",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-24.635",
+		"distance": "229.3072766",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-25.303",
+		"distance": "14.49426939",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-28.652",
+		"distance": "7.657244991",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-30.576",
+		"distance": "22.62197415",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-32.307",
+		"distance": "121.4349711",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-20 0:00:00",
+		"direction": "-33.219",
+		"distance": "26.93176759",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-15 0:00:00",
+		"direction": "-34.587",
+		"distance": "360.4220898",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-15 0:00:00",
+		"direction": "-35.319",
+		"distance": "9.880725135",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-15 0:00:00",
+		"direction": "-37.805",
+		"distance": "6.791527534",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-10 0:00:00",
+		"direction": "44.731",
+		"distance": "241.5058438",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-10 0:00:00",
+		"direction": "40.076",
+		"distance": "122.4772493",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-10 0:00:00",
+		"direction": "38.752",
+		"distance": "8.913256514",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-10 0:00:00",
+		"direction": "37.268",
+		"distance": "7.501169957",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-10 0:00:00",
+		"direction": "26.589",
+		"distance": "277.1061466",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-05 0:00:00",
+		"direction": "26.097",
+		"distance": "262.4489206",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-05 0:00:00",
+		"direction": "25.335",
+		"distance": "194.1900485",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-05 0:00:00",
+		"direction": "21.656",
+		"distance": "10.85089366",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-05-05 0:00:00",
+		"direction": "21.134",
+		"distance": "133.9505119",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-30 0:00:00",
+		"direction": "17.233",
+		"distance": "13.08919335",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-30 0:00:00",
+		"direction": "12.492",
+		"distance": "365.8503869",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-30 0:00:00",
+		"direction": "12.157",
+		"distance": "447.0229293",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-30 0:00:00",
+		"direction": "10.017",
+		"distance": "445.0869994",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-30 0:00:00",
+		"direction": "8.580",
+		"distance": "125.1639639",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-30 0:00:00",
+		"direction": "7.685",
+		"distance": "179.6994338",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-25 0:00:00",
+		"direction": "0.222",
+		"distance": "203.8169375",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-25 0:00:00",
+		"direction": "-1.189",
+		"distance": "107.3435083",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-25 0:00:00",
+		"direction": "-3.786",
+		"distance": "78.7244932",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-25 0:00:00",
+		"direction": "-4.383",
+		"distance": "231.4549288",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-20 0:00:00",
+		"direction": "-4.423",
+		"distance": "276.3759278",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-20 0:00:00",
+		"direction": "-4.648",
+		"distance": "205.0797719",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-20 0:00:00",
+		"direction": "-7.513",
+		"distance": "8.393697039",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-20 0:00:00",
+		"direction": "-8.557",
+		"distance": "16.93206941",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-20 0:00:00",
+		"direction": "-12.946",
+		"distance": "26.10295914",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-20 0:00:00",
+		"direction": "-17.817",
+		"distance": "111.4299104",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-20 0:00:00",
+		"direction": "-18.498",
+		"distance": "291.2056941",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-20 0:00:00",
+		"direction": "-23.406",
+		"distance": "104.6753061",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-20 0:00:00",
+		"direction": "-23.606",
+		"distance": "373.5215585",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-15 0:00:00",
+		"direction": "-25.194",
+		"distance": "317.6641814",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-15 0:00:00",
+		"direction": "-25.920",
+		"distance": "10.32983596",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-15 0:00:00",
+		"direction": "-26.550",
+		"distance": "103.1556192",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-30.100",
+		"distance": "19.72740891",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-38.559",
+		"distance": "5.370488186",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "41.274",
+		"distance": "14.18667347",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "39.968",
+		"distance": "215.2103776",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "31.040",
+		"distance": "199.9906779",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "27.757",
+		"distance": "245.8497074",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "25.702",
+		"distance": "98.03152797",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "25.197",
+		"distance": "339.5485714",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "23.977",
+		"distance": "81.94832908",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "22.251",
+		"distance": "262.4909021",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "17.876",
+		"distance": "22.13174656",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "16.640",
+		"distance": "44.55878313",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "16.253",
+		"distance": "204.7552665",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "14.608",
+		"distance": "175.8179846",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "9.578",
+		"distance": "151.0332894",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "6.651",
+		"distance": "37.95828385",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "5.649",
+		"distance": "94.271198",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "5.325",
+		"distance": "232.4250283",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "3.766",
+		"distance": "369.7246676",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "1.251",
+		"distance": "246.0581521",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-0.322",
+		"distance": "407.1824748",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-1.245",
+		"distance": "256.9707248",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-4.596",
+		"distance": "283.4882647",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-5.472",
+		"distance": "362.1011446",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-7.366",
+		"distance": "263.4203998",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-7.446",
+		"distance": "18.35587589",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-8.514",
+		"distance": "46.21432303",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-8.687",
+		"distance": "12.44574197",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-10.124",
+		"distance": "19.20601368",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-10.554",
+		"distance": "373.403979",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-11.691",
+		"distance": "435.1665175",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-10 0:00:00",
+		"direction": "-12.541",
+		"distance": "391.2027087",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-05 0:00:00",
+		"direction": "-13.836",
+		"distance": "46.32125811",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-05 0:00:00",
+		"direction": "-15.371",
+		"distance": "5.162117414",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-05 0:00:00",
+		"direction": "-15.915",
+		"distance": "12.89263111",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-04-05 0:00:00",
+		"direction": "-16.952",
+		"distance": "70.78567126",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-31 0:00:00",
+		"direction": "-27.478",
+		"distance": "294.1056995",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-31 0:00:00",
+		"direction": "-27.632",
+		"distance": "83.81358287",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-31 0:00:00",
+		"direction": "-27.657",
+		"distance": "176.3952909",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-31 0:00:00",
+		"direction": "-30.915",
+		"distance": "15.86539506",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-31 0:00:00",
+		"direction": "-36.044",
+		"distance": "12.84857262",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-31 0:00:00",
+		"direction": "-38.995",
+		"distance": "111.3572719",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-31 0:00:00",
+		"direction": "44.453",
+		"distance": "34.32416558",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-31 0:00:00",
+		"direction": "43.039",
+		"distance": "20.91591803",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-31 0:00:00",
+		"direction": "42.943",
+		"distance": "123.5480009",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-26 0:00:00",
+		"direction": "42.673",
+		"distance": "4.896637612",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-26 0:00:00",
+		"direction": "37.169",
+		"distance": "366.5199099",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-26 0:00:00",
+		"direction": "36.387",
+		"distance": "37.23620771",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "33.736",
+		"distance": "195.723039",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "29.971",
+		"distance": "225.7446722",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "25.935",
+		"distance": "68.9564673",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "25.036",
+		"distance": "12.91246438",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "23.126",
+		"distance": "307.1066486",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "20.661",
+		"distance": "80.69020526",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "12.979",
+		"distance": "414.63432",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "11.993",
+		"distance": "230.1351498",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "6.473",
+		"distance": "4.303708961",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "5.148",
+		"distance": "350.8934951",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "0.328",
+		"distance": "81.78006776",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "-6.752",
+		"distance": "75.66080855",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "-6.913",
+		"distance": "6.785162139",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "-7.758",
+		"distance": "210.7832153",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "-7.881",
+		"distance": "27.98843742",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-21 0:00:00",
+		"direction": "-13.722",
+		"distance": "47.2678518",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-16 0:00:00",
+		"direction": "-15.085",
+		"distance": "12.74751302",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-16 0:00:00",
+		"direction": "-15.201",
+		"distance": "399.6116004",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-16 0:00:00",
+		"direction": "-17.491",
+		"distance": "66.18729573",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-11 0:00:00",
+		"direction": "-18.050",
+		"distance": "200.0758083",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-11 0:00:00",
+		"direction": "-24.836",
+		"distance": "310.1284924",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-06 0:00:00",
+		"direction": "-25.208",
+		"distance": "24.7321255",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-06 0:00:00",
+		"direction": "-28.331",
+		"distance": "126.4639972",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-06 0:00:00",
+		"direction": "-28.824",
+		"distance": "196.8029984",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-01 0:00:00",
+		"direction": "-29.799",
+		"distance": "4.096155938",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-03-01 0:00:00",
+		"direction": "-30.945",
+		"distance": "9.676252565",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-24 0:00:00",
+		"direction": "-32.899",
+		"distance": "29.41517167",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-24 0:00:00",
+		"direction": "-37.432",
+		"distance": "39.01835034",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-24 0:00:00",
+		"direction": "-38.285",
+		"distance": "7.926246381",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-19 0:00:00",
+		"direction": "-42.996",
+		"distance": "114.8494602",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-19 0:00:00",
+		"direction": "-43.783",
+		"distance": "4.894538684",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-14 0:00:00",
+		"direction": "42.985",
+		"distance": "12.86009947",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-14 0:00:00",
+		"direction": "40.993",
+		"distance": "8.047429346",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-14 0:00:00",
+		"direction": "20.644",
+		"distance": "207.1123598",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-09 0:00:00",
+		"direction": "20.346",
+		"distance": "200.8197172",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-09 0:00:00",
+		"direction": "17.727",
+		"distance": "22.88226259",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-04 0:00:00",
+		"direction": "17.267",
+		"distance": "13.74408758",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-04 0:00:00",
+		"direction": "17.106",
+		"distance": "11.84250925",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-02-04 0:00:00",
+		"direction": "16.275",
+		"distance": "18.11556923",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-30 0:00:00",
+		"direction": "13.782",
+		"distance": "218.7764642",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-30 0:00:00",
+		"direction": "13.458",
+		"distance": "25.74391616",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-25 0:00:00",
+		"direction": "11.689",
+		"distance": "12.48186471",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "9.986",
+		"distance": "17.18050811",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "9.250",
+		"distance": "228.5074805",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "7.748",
+		"distance": "228.5544741",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "6.717",
+		"distance": "299.3351827",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "5.489",
+		"distance": "355.4976854",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "3.512",
+		"distance": "30.61853997",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "2.524",
+		"distance": "360.3141786",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "2.368",
+		"distance": "286.7826202",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "1.483",
+		"distance": "332.5485723",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "-1.687",
+		"distance": "114.3100231",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "-2.297",
+		"distance": "311.8532134",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "-6.722",
+		"distance": "326.5859323",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "-8.452",
+		"distance": "280.9464927",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "-9.292",
+		"distance": "365.4248338",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "-10.200",
+		"distance": "131.2302561",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-20 0:00:00",
+		"direction": "-10.328",
+		"distance": "10.6043948",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-15 0:00:00",
+		"direction": "-11.817",
+		"distance": "364.4304664",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-15 0:00:00",
+		"direction": "-13.702",
+		"distance": "187.0333494",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-15 0:00:00",
+		"direction": "-14.863",
+		"distance": "363.1848766",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-15 0:00:00",
+		"direction": "-15.529",
+		"distance": "18.48800863",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-10 0:00:00",
+		"direction": "-22.273",
+		"distance": "3.663432984",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-10 0:00:00",
+		"direction": "-25.465",
+		"distance": "11.37867152",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-10 0:00:00",
+		"direction": "-26.727",
+		"distance": "103.7659277",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-10 0:00:00",
+		"direction": "-32.762",
+		"distance": "9.119956238",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-10 0:00:00",
+		"direction": "-34.073",
+		"distance": "45.04609019",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-10 0:00:00",
+		"direction": "-37.949",
+		"distance": "28.34067403",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-10 0:00:00",
+		"direction": "-43.795",
+		"distance": "49.87601646",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-10 0:00:00",
+		"direction": "33.560",
+		"distance": "248.5528123",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-10 0:00:00",
+		"direction": "30.619",
+		"distance": "60.40445985",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-05 0:00:00",
+		"direction": "28.104",
+		"distance": "13.2457043",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-05 0:00:00",
+		"direction": "24.674",
+		"distance": "354.4501035",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2017-01-05 0:00:00",
+		"direction": "21.832",
+		"distance": "5.652156117",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "20.137",
+		"distance": "243.7221203",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "16.860",
+		"distance": "49.01690191",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "16.699",
+		"distance": "302.0828994",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "15.625",
+		"distance": "234.151759",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "15.335",
+		"distance": "95.60898968",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "15.332",
+		"distance": "249.2238289",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "10.132",
+		"distance": "312.8949987",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "10.120",
+		"distance": "18.43984279",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "7.625",
+		"distance": "319.0038956",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "5.218",
+		"distance": "272.1520621",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "5.092",
+		"distance": "26.40460558",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "4.156",
+		"distance": "19.23945853",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-0.907",
+		"distance": "279.6655149",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-1.194",
+		"distance": "404.3563893",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-1.697",
+		"distance": "6.864009623",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-5.080",
+		"distance": "253.2270707",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-5.262",
+		"distance": "350.4373619",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-6.014",
+		"distance": "4.65368429",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-6.129",
+		"distance": "42.38190118",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-6.945",
+		"distance": "229.728421",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-11.952",
+		"distance": "161.2024888",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-13.723",
+		"distance": "10.68433171",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-15.791",
+		"distance": "163.7964505",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-16.573",
+		"distance": "322.9640301",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-16.935",
+		"distance": "317.6454256",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-19.747",
+		"distance": "224.6458484",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-20.060",
+		"distance": "19.80934846",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-20.292",
+		"distance": "178.7130551",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-23.770",
+		"distance": "3.16829963",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-26.955",
+		"distance": "266.5590275",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-32.374",
+		"distance": "31.40233196",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-07 0:00:00",
+		"direction": "-36.483",
+		"distance": "5.802762526",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-04 0:00:00",
+		"direction": "-39.741",
+		"distance": "13.23383621",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-04 0:00:00",
+		"direction": "43.785",
+		"distance": "8.499085193",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-04 0:00:00",
+		"direction": "38.293",
+		"distance": "217.7999372",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-04 0:00:00",
+		"direction": "37.564",
+		"distance": "264.260545",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-01 0:00:00",
+		"direction": "33.266",
+		"distance": "13.95459423",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-01 0:00:00",
+		"direction": "30.747",
+		"distance": "10.37181242",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-01 0:00:00",
+		"direction": "29.804",
+		"distance": "83.99212053",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-01 0:00:00",
+		"direction": "29.429",
+		"distance": "22.43321939",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-01 0:00:00",
+		"direction": "27.615",
+		"distance": "9.523211153",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-01 0:00:00",
+		"direction": "24.810",
+		"distance": "209.565684",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-01 0:00:00",
+		"direction": "22.784",
+		"distance": "16.72561945",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-01 0:00:00",
+		"direction": "22.757",
+		"distance": "7.901384403",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-06-01 0:00:00",
+		"direction": "19.041",
+		"distance": "92.58614614",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-29 0:00:00",
+		"direction": "17.926",
+		"distance": "207.4502146",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-29 0:00:00",
+		"direction": "16.774",
+		"distance": "281.6416543",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-29 0:00:00",
+		"direction": "15.788",
+		"distance": "9.799097902",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "15.014",
+		"distance": "249.5169883",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "12.558",
+		"distance": "148.3472766",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "7.792",
+		"distance": "208.5795337",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "6.252",
+		"distance": "286.3332852",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "1.453",
+		"distance": "8.665756129",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "0.285",
+		"distance": "27.47320195",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "-2.855",
+		"distance": "88.42167208",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "-4.235",
+		"distance": "267.3042257",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "-6.321",
+		"distance": "276.9634566",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "-7.384",
+		"distance": "74.95947241",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "-9.091",
+		"distance": "163.0524933",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "-9.205",
+		"distance": "258.4173071",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "-10.221",
+		"distance": "212.1614029",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-26 0:00:00",
+		"direction": "-10.932",
+		"distance": "355.6575132",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-23 0:00:00",
+		"direction": "-12.732",
+		"distance": "35.43514154",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-23 0:00:00",
+		"direction": "-15.516",
+		"distance": "199.0732223",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-23 0:00:00",
+		"direction": "-16.035",
+		"distance": "9.193084609",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-20 0:00:00",
+		"direction": "-20.168",
+		"distance": "9.91964133",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-20 0:00:00",
+		"direction": "-20.383",
+		"distance": "18.36691993",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-20 0:00:00",
+		"direction": "-21.130",
+		"distance": "378.5622097",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-20 0:00:00",
+		"direction": "-21.325",
+		"distance": "335.6939938",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-20 0:00:00",
+		"direction": "-24.195",
+		"distance": "5.409443975",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-17 0:00:00",
+		"direction": "-24.985",
+		"distance": "110.8465328",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-17 0:00:00",
+		"direction": "-36.251",
+		"distance": "15.00975172",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-17 0:00:00",
+		"direction": "-39.453",
+		"distance": "22.79523107",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-17 0:00:00",
+		"direction": "43.575",
+		"distance": "29.40014793",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-14 0:00:00",
+		"direction": "39.344",
+		"distance": "11.36522563",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-14 0:00:00",
+		"direction": "38.375",
+		"distance": "245.3863647",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-14 0:00:00",
+		"direction": "37.795",
+		"distance": "224.3045421",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-14 0:00:00",
+		"direction": "34.755",
+		"distance": "253.1851808",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-14 0:00:00",
+		"direction": "28.210",
+		"distance": "276.2308637",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-14 0:00:00",
+		"direction": "27.942",
+		"distance": "309.2210837",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-11 0:00:00",
+		"direction": "26.526",
+		"distance": "158.7170276",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-11 0:00:00",
+		"direction": "26.227",
+		"distance": "249.7412704",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-11 0:00:00",
+		"direction": "25.535",
+		"distance": "124.1000791",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-11 0:00:00",
+		"direction": "24.478",
+		"distance": "175.293799",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-08 0:00:00",
+		"direction": "22.195",
+		"distance": "193.5601268",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-08 0:00:00",
+		"direction": "20.969",
+		"distance": "232.9224284",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-08 0:00:00",
+		"direction": "18.480",
+		"distance": "6.779001317",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-08 0:00:00",
+		"direction": "17.027",
+		"distance": "188.5986961",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-08 0:00:00",
+		"direction": "10.951",
+		"distance": "245.8880893",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-08 0:00:00",
+		"direction": "10.159",
+		"distance": "166.2020395",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-08 0:00:00",
+		"direction": "9.059",
+		"distance": "62.6858685",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-08 0:00:00",
+		"direction": "6.881",
+		"distance": "344.2243733",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-08 0:00:00",
+		"direction": "6.751",
+		"distance": "34.60695203",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-05 0:00:00",
+		"direction": "5.512",
+		"distance": "36.59069568",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-05 0:00:00",
+		"direction": "4.935",
+		"distance": "64.5688291",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-05 0:00:00",
+		"direction": "4.366",
+		"distance": "319.9057805",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "3.225",
+		"distance": "7.014174647",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "1.362",
+		"distance": "308.8075885",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "0.108",
+		"distance": "8.85071667",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "0.026",
+		"distance": "286.4753448",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-3.843",
+		"distance": "16.9997596",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-5.506",
+		"distance": "236.021332",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-5.575",
+		"distance": "9.958415317",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-6.615",
+		"distance": "263.5734935",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-7.798",
+		"distance": "164.3545147",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-12.138",
+		"distance": "316.4768463",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-15.873",
+		"distance": "333.4075237",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-17.779",
+		"distance": "9.502603822",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-18.713",
+		"distance": "25.46212231",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-19.908",
+		"distance": "22.62087411",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-26.221",
+		"distance": "14.61572111",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-26.883",
+		"distance": "255.0826112",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-28.805",
+		"distance": "56.69180754",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-30.044",
+		"distance": "28.43012113",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-41.548",
+		"distance": "6.757534063",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "-42.367",
+		"distance": "59.1864603",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "44.055",
+		"distance": "130.8681655",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "42.214",
+		"distance": "102.9332156",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "41.166",
+		"distance": "50.80214301",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "38.980",
+		"distance": "127.6371837",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "36.373",
+		"distance": "73.90780529",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "32.967",
+		"distance": "7.315860512",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "29.912",
+		"distance": "41.19694897",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "25.300",
+		"distance": "316.1143281",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "23.262",
+		"distance": "200.8062555",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "16.683",
+		"distance": "362.7028849",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "12.402",
+		"distance": "169.3868527",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-05-02 0:00:00",
+		"direction": "11.509",
+		"distance": "10.56960483",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-29 0:00:00",
+		"direction": "11.199",
+		"distance": "237.8884859",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-29 0:00:00",
+		"direction": "8.834",
+		"distance": "214.1401249",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-29 0:00:00",
+		"direction": "5.760",
+		"distance": "255.6827138",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-29 0:00:00",
+		"direction": "3.780",
+		"distance": "301.9279421",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-26 0:00:00",
+		"direction": "0.602",
+		"distance": "20.52033808",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-26 0:00:00",
+		"direction": "0.490",
+		"distance": "304.3889973",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-26 0:00:00",
+		"direction": "-1.092",
+		"distance": "77.48313019",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-26 0:00:00",
+		"direction": "-3.983",
+		"distance": "246.0728772",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-26 0:00:00",
+		"direction": "-6.610",
+		"distance": "6.037451609",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-26 0:00:00",
+		"direction": "-8.190",
+		"distance": "9.849828179",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-26 0:00:00",
+		"direction": "-10.348",
+		"distance": "91.68382246",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-26 0:00:00",
+		"direction": "-10.416",
+		"distance": "301.9730231",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-26 0:00:00",
+		"direction": "-11.520",
+		"distance": "256.5510567",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-23 0:00:00",
+		"direction": "-12.707",
+		"distance": "239.9580319",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-23 0:00:00",
+		"direction": "-13.203",
+		"distance": "339.3917981",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-23 0:00:00",
+		"direction": "-14.099",
+		"distance": "340.4740778",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-16.368",
+		"distance": "190.6357291",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-16.805",
+		"distance": "136.9578198",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-20.747",
+		"distance": "13.26041268",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-20.956",
+		"distance": "195.9359634",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-23.760",
+		"distance": "75.54742",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-28.610",
+		"distance": "10.86956023",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-31.230",
+		"distance": "50.41481066",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-31.398",
+		"distance": "124.4777523",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-32.140",
+		"distance": "34.05102944",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-32.192",
+		"distance": "16.76222386",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-32.740",
+		"distance": "8.067497815",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-35.789",
+		"distance": "46.36035226",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-36.309",
+		"distance": "6.864586453",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "43.064",
+		"distance": "133.5402668",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "42.547",
+		"distance": "14.35475089",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "42.435",
+		"distance": "374.3169066",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "41.885",
+		"distance": "12.11945538",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "28.655",
+		"distance": "10.62450742",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "28.191",
+		"distance": "220.1053755",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "24.005",
+		"distance": "13.66420605",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "18.153",
+		"distance": "156.7745188",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "13.603",
+		"distance": "339.9403508",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "12.799",
+		"distance": "23.73350916",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "11.575",
+		"distance": "263.3117494",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "11.433",
+		"distance": "25.34956936",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "8.915",
+		"distance": "211.4825728",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "7.163",
+		"distance": "355.2652954",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "6.986",
+		"distance": "256.2913942",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "5.978",
+		"distance": "202.166074",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "4.866",
+		"distance": "70.69369274",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "0.652",
+		"distance": "325.5350408",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-20 0:00:00",
+		"direction": "-1.201",
+		"distance": "311.5662697",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-17 0:00:00",
+		"direction": "-6.167",
+		"distance": "17.71570577",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-17 0:00:00",
+		"direction": "-6.274",
+		"distance": "2.424338128",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-17 0:00:00",
+		"direction": "-7.483",
+		"distance": "110.5116544",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-17 0:00:00",
+		"direction": "-7.646",
+		"distance": "8.12495961",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-14 0:00:00",
+		"direction": "-10.272",
+		"distance": "7.928697955",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-14 0:00:00",
+		"direction": "-12.493",
+		"distance": "30.16450632",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-14 0:00:00",
+		"direction": "-12.844",
+		"distance": "235.8248966",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-14 0:00:00",
+		"direction": "-15.327",
+		"distance": "66.10998472",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-14 0:00:00",
+		"direction": "-18.698",
+		"distance": "5.423317457",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-14 0:00:00",
+		"direction": "-20.689",
+		"distance": "9.32783809",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-14 0:00:00",
+		"direction": "-24.786",
+		"distance": "251.1822881",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-14 0:00:00",
+		"direction": "-26.926",
+		"distance": "10.50108917",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-14 0:00:00",
+		"direction": "-28.890",
+		"distance": "15.69091436",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-11 0:00:00",
+		"direction": "-31.276",
+		"distance": "18.21500841",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-11 0:00:00",
+		"direction": "-42.275",
+		"distance": "62.39350788",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-11 0:00:00",
+		"direction": "-44.869",
+		"distance": "19.6977611",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "38.073",
+		"distance": "35.56392765",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "35.065",
+		"distance": "107.6138036",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "34.711",
+		"distance": "302.8088161",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "34.078",
+		"distance": "201.7595493",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "31.573",
+		"distance": "56.02883877",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "29.027",
+		"distance": "338.8590314",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "27.235",
+		"distance": "92.86166034",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "26.184",
+		"distance": "92.61462964",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "24.840",
+		"distance": "54.29918979",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "23.005",
+		"distance": "12.38887164",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "21.798",
+		"distance": "81.70687807",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "19.011",
+		"distance": "332.2962002",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "18.376",
+		"distance": "382.2216335",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "17.894",
+		"distance": "8.981812288",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "16.875",
+		"distance": "310.0307352",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "16.845",
+		"distance": "331.9719129",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "16.592",
+		"distance": "60.13154851",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "15.844",
+		"distance": "189.2012379",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "13.678",
+		"distance": "13.93499692",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "13.381",
+		"distance": "384.7705045",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "13.264",
+		"distance": "7.845026827",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "12.952",
+		"distance": "298.9474081",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "11.114",
+		"distance": "198.0679935",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "10.547",
+		"distance": "11.64172464",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "9.642",
+		"distance": "9.291066207",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "9.502",
+		"distance": "8.01689778",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "7.571",
+		"distance": "52.20104341",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "6.770",
+		"distance": "10.10966293",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "6.726",
+		"distance": "11.86153976",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "6.676",
+		"distance": "373.4324134",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "6.505",
+		"distance": "13.84014764",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-08 0:00:00",
+		"direction": "6.221",
+		"distance": "270.2666509",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-05 0:00:00",
+		"direction": "5.494",
+		"distance": "340.8944286",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-05 0:00:00",
+		"direction": "3.552",
+		"distance": "411.7061863",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-05 0:00:00",
+		"direction": "3.316",
+		"distance": "18.47773502",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-05 0:00:00",
+		"direction": "3.218",
+		"distance": "6.534166579",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-02 0:00:00",
+		"direction": "2.462",
+		"distance": "7.340950947",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-02 0:00:00",
+		"direction": "2.012",
+		"distance": "21.53415864",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-02 0:00:00",
+		"direction": "1.939",
+		"distance": "41.09124336",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-02 0:00:00",
+		"direction": "1.804",
+		"distance": "335.1457777",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-02 0:00:00",
+		"direction": "0.508",
+		"distance": "142.0042649",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-02 0:00:00",
+		"direction": "-0.399",
+		"distance": "282.3164757",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-02 0:00:00",
+		"direction": "-0.994",
+		"distance": "311.6400681",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-02 0:00:00",
+		"direction": "-1.880",
+		"distance": "355.7638071",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-04-02 0:00:00",
+		"direction": "-3.480",
+		"distance": "25.82342605",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-30 0:00:00",
+		"direction": "-3.569",
+		"distance": "9.401609927",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-30 0:00:00",
+		"direction": "-3.736",
+		"distance": "273.1126327",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-30 0:00:00",
+		"direction": "-4.046",
+		"distance": "265.3698169",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-4.054",
+		"distance": "49.61578015",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-5.391",
+		"distance": "289.0008826",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-6.722",
+		"distance": "131.5565034",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-6.747",
+		"distance": "279.5217341",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-8.576",
+		"distance": "353.8400171",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-8.706",
+		"distance": "374.5750896",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-8.799",
+		"distance": "147.7330236",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-8.854",
+		"distance": "287.3824112",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-9.191",
+		"distance": "48.1020538",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-10.266",
+		"distance": "5.288142422",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-11.700",
+		"distance": "8.194724028",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-11.794",
+		"distance": "88.55792744",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-12.357",
+		"distance": "7.039400851",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-27 0:00:00",
+		"direction": "-12.448",
+		"distance": "13.52199844",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-24 0:00:00",
+		"direction": "-14.506",
+		"distance": "126.6352942",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-24 0:00:00",
+		"direction": "-15.084",
+		"distance": "324.3578525",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-24 0:00:00",
+		"direction": "-16.215",
+		"distance": "304.423432",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-21 0:00:00",
+		"direction": "-16.547",
+		"distance": "306.2465619",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-21 0:00:00",
+		"direction": "-16.576",
+		"distance": "227.1604831",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-21 0:00:00",
+		"direction": "-16.636",
+		"distance": "370.0931223",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-21 0:00:00",
+		"direction": "-16.861",
+		"distance": "13.54389185",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-21 0:00:00",
+		"direction": "-16.936",
+		"distance": "64.81172897",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-18 0:00:00",
+		"direction": "-18.195",
+		"distance": "195.8822806",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-18 0:00:00",
+		"direction": "-18.691",
+		"distance": "215.3126815",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-18 0:00:00",
+		"direction": "-19.141",
+		"distance": "84.91559641",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-18 0:00:00",
+		"direction": "-20.894",
+		"distance": "241.7836762",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-15 0:00:00",
+		"direction": "-21.778",
+		"distance": "130.6676839",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-15 0:00:00",
+		"direction": "-22.039",
+		"distance": "19.13588414",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-15 0:00:00",
+		"direction": "-23.320",
+		"distance": "197.9809978",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-15 0:00:00",
+		"direction": "-23.973",
+		"distance": "335.7495978",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-15 0:00:00",
+		"direction": "-27.071",
+		"distance": "232.3644586",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-15 0:00:00",
+		"direction": "-27.985",
+		"distance": "137.9202793",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-12 0:00:00",
+		"direction": "-31.395",
+		"distance": "145.8036091",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-12 0:00:00",
+		"direction": "-32.266",
+		"distance": "156.1605474",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-12 0:00:00",
+		"direction": "-33.081",
+		"distance": "4.471219266",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-12 0:00:00",
+		"direction": "-33.670",
+		"distance": "14.78041057",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-09 0:00:00",
+		"direction": "-35.302",
+		"distance": "17.19528502",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-09 0:00:00",
+		"direction": "-36.280",
+		"distance": "11.0812434",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-09 0:00:00",
+		"direction": "43.929",
+		"distance": "109.2561129",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-09 0:00:00",
+		"direction": "43.082",
+		"distance": "30.07175529",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-09 0:00:00",
+		"direction": "39.936",
+		"distance": "74.88976737",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-09 0:00:00",
+		"direction": "38.228",
+		"distance": "5.51797294",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-09 0:00:00",
+		"direction": "37.827",
+		"distance": "323.3056608",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-09 0:00:00",
+		"direction": "37.370",
+		"distance": "200.1785959",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-09 0:00:00",
+		"direction": "33.535",
+		"distance": "326.3302576",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-06 0:00:00",
+		"direction": "32.603",
+		"distance": "37.41867995",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-06 0:00:00",
+		"direction": "31.724",
+		"distance": "8.87723856",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-06 0:00:00",
+		"direction": "30.955",
+		"distance": "20.97711175",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "28.808",
+		"distance": "21.14606964",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "28.360",
+		"distance": "314.1569444",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "28.032",
+		"distance": "67.89984445",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "28.003",
+		"distance": "279.7270538",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "25.870",
+		"distance": "273.3029496",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "23.750",
+		"distance": "306.835759",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "22.452",
+		"distance": "17.58733795",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "22.138",
+		"distance": "329.4988158",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "20.997",
+		"distance": "293.6674925",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "20.756",
+		"distance": "310.0719078",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "20.657",
+		"distance": "339.2017483",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "20.202",
+		"distance": "200.330234",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "19.511",
+		"distance": "24.42748492",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "19.439",
+		"distance": "20.40829716",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "19.402",
+		"distance": "249.9766457",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "19.093",
+		"distance": "199.7840871",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "18.548",
+		"distance": "5.525523986",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "18.278",
+		"distance": "130.4300539",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "18.234",
+		"distance": "56.126961",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "17.899",
+		"distance": "398.6576158",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "16.313",
+		"distance": "320.6714982",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "16.061",
+		"distance": "344.0558803",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "15.819",
+		"distance": "182.2466687",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "15.700",
+		"distance": "106.8967741",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "14.413",
+		"distance": "203.354687",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "14.360",
+		"distance": "354.444946",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "13.320",
+		"distance": "294.5289833",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "12.468",
+		"distance": "52.63835795",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "10.291",
+		"distance": "329.6113719",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "9.296",
+		"distance": "65.68242437",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "9.015",
+		"distance": "31.28149835",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-03-03 0:00:00",
+		"direction": "8.060",
+		"distance": "294.0245573",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-29 0:00:00",
+		"direction": "7.255",
+		"distance": "179.1456425",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-29 0:00:00",
+		"direction": "7.244",
+		"distance": "272.2884349",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-29 0:00:00",
+		"direction": "5.845",
+		"distance": "397.1551362",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-29 0:00:00",
+		"direction": "5.468",
+		"distance": "33.92910279",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-26 0:00:00",
+		"direction": "4.559",
+		"distance": "194.7138491",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-26 0:00:00",
+		"direction": "4.336",
+		"distance": "197.3342571",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-26 0:00:00",
+		"direction": "2.863",
+		"distance": "200.4302077",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-26 0:00:00",
+		"direction": "2.111",
+		"distance": "387.4033649",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-26 0:00:00",
+		"direction": "1.157",
+		"distance": "317.3007046",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-26 0:00:00",
+		"direction": "-0.071",
+		"distance": "196.3955341",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-26 0:00:00",
+		"direction": "-0.309",
+		"distance": "18.76717236",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-26 0:00:00",
+		"direction": "-0.697",
+		"distance": "11.38690604",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-26 0:00:00",
+		"direction": "-1.118",
+		"distance": "48.32058882",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-23 0:00:00",
+		"direction": "-1.594",
+		"distance": "130.2003722",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-23 0:00:00",
+		"direction": "-1.767",
+		"distance": "259.8283439",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-23 0:00:00",
+		"direction": "-1.804",
+		"distance": "214.0755699",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-2.169",
+		"distance": "26.97406311",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-2.673",
+		"distance": "292.6736225",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-3.803",
+		"distance": "293.1616527",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-3.911",
+		"distance": "295.2536808",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-4.079",
+		"distance": "379.0555431",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-5.572",
+		"distance": "9.816441337",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-5.701",
+		"distance": "148.8447334",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-5.759",
+		"distance": "305.7877277",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-6.239",
+		"distance": "338.7081733",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-7.033",
+		"distance": "246.0441588",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-7.835",
+		"distance": "308.9649052",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-8.287",
+		"distance": "309.3795795",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-8.609",
+		"distance": "68.20819115",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-8.617",
+		"distance": "380.0223091",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-10.465",
+		"distance": "11.24105491",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-20 0:00:00",
+		"direction": "-10.982",
+		"distance": "28.45619604",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-17 0:00:00",
+		"direction": "-10.989",
+		"distance": "81.58023201",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-17 0:00:00",
+		"direction": "-12.170",
+		"distance": "23.57519292",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-17 0:00:00",
+		"direction": "-12.717",
+		"distance": "244.7392827",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-14 0:00:00",
+		"direction": "-13.417",
+		"distance": "308.9530571",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-14 0:00:00",
+		"direction": "-13.694",
+		"distance": "375.4417048",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-11 0:00:00",
+		"direction": "-14.197",
+		"distance": "114.4719045",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-11 0:00:00",
+		"direction": "-14.751",
+		"distance": "359.5480555",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-11 0:00:00",
+		"direction": "-18.973",
+		"distance": "381.4459076",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-08 0:00:00",
+		"direction": "-19.144",
+		"distance": "44.14510426",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-08 0:00:00",
+		"direction": "-20.595",
+		"distance": "5.589619472",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-05 0:00:00",
+		"direction": "-21.159",
+		"distance": "248.6684162",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-05 0:00:00",
+		"direction": "-21.181",
+		"distance": "19.35979617",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-05 0:00:00",
+		"direction": "-21.394",
+		"distance": "181.1549813",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-02 0:00:00",
+		"direction": "-21.779",
+		"distance": "12.25477108",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-02-02 0:00:00",
+		"direction": "-23.805",
+		"distance": "268.0324035",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-30 0:00:00",
+		"direction": "-24.304",
+		"distance": "187.9031104",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-30 0:00:00",
+		"direction": "-24.904",
+		"distance": "374.1366348",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-30 0:00:00",
+		"direction": "-24.994",
+		"distance": "224.0203767",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-27 0:00:00",
+		"direction": "-27.856",
+		"distance": "336.7952169",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-27 0:00:00",
+		"direction": "-29.570",
+		"distance": "27.72077516",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-24 0:00:00",
+		"direction": "-35.869",
+		"distance": "142.3269179",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-24 0:00:00",
+		"direction": "-36.321",
+		"distance": "14.95904646",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-24 0:00:00",
+		"direction": "-36.468",
+		"distance": "22.13093814",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "-37.319",
+		"distance": "9.289890377",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "-42.611",
+		"distance": "117.1524243",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "38.362",
+		"distance": "74.86899211",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "36.819",
+		"distance": "46.81547018",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "35.532",
+		"distance": "8.367837318",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "35.091",
+		"distance": "295.9502758",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "29.988",
+		"distance": "140.0127363",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "27.934",
+		"distance": "5.132297592",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "25.772",
+		"distance": "292.7393026",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "23.455",
+		"distance": "80.99045726",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "22.688",
+		"distance": "180.2780569",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "22.206",
+		"distance": "47.44499206",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "22.177",
+		"distance": "11.08588859",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "21.892",
+		"distance": "188.3730427",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "20.905",
+		"distance": "230.2534065",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "19.072",
+		"distance": "386.1277958",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "18.602",
+		"distance": "349.6350038",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-21 0:00:00",
+		"direction": "15.363",
+		"distance": "314.6425459",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-18 0:00:00",
+		"direction": "14.415",
+		"distance": "321.285354",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-18 0:00:00",
+		"direction": "7.623",
+		"distance": "317.7843301",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-18 0:00:00",
+		"direction": "6.702",
+		"distance": "354.8516499",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-18 0:00:00",
+		"direction": "6.652",
+		"distance": "253.9438017",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-15 0:00:00",
+		"direction": "3.726",
+		"distance": "93.32909202",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-15 0:00:00",
+		"direction": "3.355",
+		"distance": "4.468274392",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-15 0:00:00",
+		"direction": "2.637",
+		"distance": "118.4872346",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-15 0:00:00",
+		"direction": "1.920",
+		"distance": "324.009892",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-15 0:00:00",
+		"direction": "-0.994",
+		"distance": "250.8273883",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-15 0:00:00",
+		"direction": "-1.287",
+		"distance": "14.69766382",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-15 0:00:00",
+		"direction": "-2.069",
+		"distance": "329.3826846",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-15 0:00:00",
+		"direction": "-2.123",
+		"distance": "266.2757373",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-15 0:00:00",
+		"direction": "-2.428",
+		"distance": "9.86018096",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-12 0:00:00",
+		"direction": "-3.789",
+		"distance": "335.0586047",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-12 0:00:00",
+		"direction": "-5.812",
+		"distance": "293.1257361",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-12 0:00:00",
+		"direction": "-8.105",
+		"distance": "238.8354917",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-11.836",
+		"distance": "334.9149669",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-12.831",
+		"distance": "142.7299783",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-14.843",
+		"distance": "249.8335424",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-15.815",
+		"distance": "11.3160814",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-16.974",
+		"distance": "356.7211046",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-22.987",
+		"distance": "19.57113788",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-25.187",
+		"distance": "362.6558388",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-26.025",
+		"distance": "412.4629159",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-27.519",
+		"distance": "23.11499817",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-28.079",
+		"distance": "13.95786292",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-33.959",
+		"distance": "95.08702476",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "-43.859",
+		"distance": "10.65467843",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "41.922",
+		"distance": "9.014635257",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "35.761",
+		"distance": "6.675281928",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "31.856",
+		"distance": "3.092797418",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "28.488",
+		"distance": "294.8998927",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "25.562",
+		"distance": "263.5267664",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "22.373",
+		"distance": "70.66705596",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "19.702",
+		"distance": "198.2391774",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "16.104",
+		"distance": "44.26135295",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "15.360",
+		"distance": "19.15983695",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "13.463",
+		"distance": "412.7876403",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "12.345",
+		"distance": "328.0848121",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "8.368",
+		"distance": "350.9929042",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "7.413",
+		"distance": "354.451838",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "7.022",
+		"distance": "298.0401209",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "6.106",
+		"distance": "232.1766095",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "5.473",
+		"distance": "231.2993277",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "5.174",
+		"distance": "11.53529106",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "5.097",
+		"distance": "281.5876696",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "4.808",
+		"distance": "133.1804321",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-09 0:00:00",
+		"direction": "3.911",
+		"distance": "331.905574",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-06 0:00:00",
+		"direction": "1.423",
+		"distance": "294.9586003",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-06 0:00:00",
+		"direction": "0.574",
+		"distance": "232.3103688",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-06 0:00:00",
+		"direction": "0.252",
+		"distance": "365.4060087",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2016-01-06 0:00:00",
+		"direction": "-0.800",
+		"distance": "326.4966836",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-07 0:00:00",
+		"direction": "-1.431",
+		"distance": "4.577448721",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-07 0:00:00",
+		"direction": "-4.068",
+		"distance": "222.4015474",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-07 0:00:00",
+		"direction": "-4.862",
+		"distance": "11.05292212",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-07 0:00:00",
+		"direction": "-5.497",
+		"distance": "145.6000906",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-07 0:00:00",
+		"direction": "-5.911",
+		"distance": "344.0708704",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-07 0:00:00",
+		"direction": "-7.616",
+		"distance": "10.43534294",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-07 0:00:00",
+		"direction": "-12.623",
+		"distance": "75.24196712",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-07 0:00:00",
+		"direction": "-13.508",
+		"distance": "287.8777149",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-07 0:00:00",
+		"direction": "-14.195",
+		"distance": "105.2043427",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-04 0:00:00",
+		"direction": "-17.332",
+		"distance": "390.333949",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-04 0:00:00",
+		"direction": "-20.999",
+		"distance": "13.50031172",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-04 0:00:00",
+		"direction": "-23.200",
+		"distance": "62.01357815",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "-34.639",
+		"distance": "303.3731991",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "42.662",
+		"distance": "12.00051827",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "41.944",
+		"distance": "318.8580278",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "36.552",
+		"distance": "247.2474471",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "36.014",
+		"distance": "27.54902289",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "23.684",
+		"distance": "294.0133418",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "22.531",
+		"distance": "252.0369058",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "19.796",
+		"distance": "334.600463",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "19.634",
+		"distance": "29.45791662",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "17.858",
+		"distance": "183.91378",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "17.828",
+		"distance": "30.33547671",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "15.077",
+		"distance": "355.7585771",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "13.846",
+		"distance": "374.1392241",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-07-01 0:00:00",
+		"direction": "13.475",
+		"distance": "280.7915112",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-28 0:00:00",
+		"direction": "12.282",
+		"distance": "47.73603512",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-28 0:00:00",
+		"direction": "9.782",
+		"distance": "385.3902724",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-28 0:00:00",
+		"direction": "9.438",
+		"distance": "294.5322571",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-25 0:00:00",
+		"direction": "9.309",
+		"distance": "331.6804106",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-25 0:00:00",
+		"direction": "6.368",
+		"distance": "84.97981534",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-25 0:00:00",
+		"direction": "5.112",
+		"distance": "261.6068944",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-25 0:00:00",
+		"direction": "4.756",
+		"distance": "67.8434469",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-25 0:00:00",
+		"direction": "3.605",
+		"distance": "172.8958982",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-22 0:00:00",
+		"direction": "2.735",
+		"distance": "49.75925465",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-22 0:00:00",
+		"direction": "-1.992",
+		"distance": "225.6176884",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-22 0:00:00",
+		"direction": "-2.563",
+		"distance": "359.3365509",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-22 0:00:00",
+		"direction": "-2.747",
+		"distance": "266.5508526",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-19 0:00:00",
+		"direction": "-3.011",
+		"distance": "242.7132615",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-19 0:00:00",
+		"direction": "-4.273",
+		"distance": "315.8833258",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-19 0:00:00",
+		"direction": "-5.029",
+		"distance": "7.61395277",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-19 0:00:00",
+		"direction": "-5.834",
+		"distance": "8.327824226",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-19 0:00:00",
+		"direction": "-8.595",
+		"distance": "318.9356891",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-19 0:00:00",
+		"direction": "-10.468",
+		"distance": "297.9379039",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-16 0:00:00",
+		"direction": "-12.618",
+		"distance": "306.0133194",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-16 0:00:00",
+		"direction": "-13.964",
+		"distance": "356.5837066",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-16 0:00:00",
+		"direction": "-15.021",
+		"distance": "382.7410113",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-16 0:00:00",
+		"direction": "-16.475",
+		"distance": "20.41538011",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-13 0:00:00",
+		"direction": "-18.155",
+		"distance": "21.48481062",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-13 0:00:00",
+		"direction": "-19.014",
+		"distance": "13.76590024",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-13 0:00:00",
+		"direction": "-20.078",
+		"distance": "261.9456252",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-13 0:00:00",
+		"direction": "-22.470",
+		"distance": "346.1813466",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-13 0:00:00",
+		"direction": "-25.692",
+		"distance": "81.62725549",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-13 0:00:00",
+		"direction": "-27.970",
+		"distance": "118.5130549",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-13 0:00:00",
+		"direction": "-28.696",
+		"distance": "7.135290277",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-13 0:00:00",
+		"direction": "-32.185",
+		"distance": "370.4256149",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-13 0:00:00",
+		"direction": "-35.019",
+		"distance": "28.02049185",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-10 0:00:00",
+		"direction": "40.236",
+		"distance": "5.186084506",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-10 0:00:00",
+		"direction": "31.690",
+		"distance": "101.4053382",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-10 0:00:00",
+		"direction": "29.243",
+		"distance": "260.8490125",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "26.970",
+		"distance": "266.8429217",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "25.976",
+		"distance": "269.994467",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "25.198",
+		"distance": "10.85238871",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "23.942",
+		"distance": "66.55675137",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "21.244",
+		"distance": "332.9779752",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "19.865",
+		"distance": "210.919944",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "17.997",
+		"distance": "385.6771844",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "17.573",
+		"distance": "7.716591886",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "16.260",
+		"distance": "39.13526674",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "15.291",
+		"distance": "359.919209",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "14.113",
+		"distance": "389.7935212",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "10.112",
+		"distance": "10.13350061",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "7.854",
+		"distance": "283.5082736",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "7.104",
+		"distance": "67.64733965",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "3.052",
+		"distance": "380.3748586",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "2.804",
+		"distance": "133.0233335",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "1.849",
+		"distance": "42.84515186",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-2.409",
+		"distance": "335.5562892",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-2.515",
+		"distance": "324.6443342",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-2.687",
+		"distance": "182.7347128",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-4.258",
+		"distance": "35.68771886",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-4.865",
+		"distance": "273.7555131",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-7.041",
+		"distance": "5.892331191",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-10.908",
+		"distance": "346.6338196",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-11.143",
+		"distance": "378.3727183",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-16.357",
+		"distance": "42.92093459",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-17.369",
+		"distance": "156.2724175",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-17.397",
+		"distance": "11.03341063",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-21.398",
+		"distance": "328.9045259",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-23.333",
+		"distance": "10.65765602",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-27.174",
+		"distance": "38.19106347",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-07 0:00:00",
+		"direction": "-27.185",
+		"distance": "46.66245563",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-04 0:00:00",
+		"direction": "-30.092",
+		"distance": "235.7594841",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-04 0:00:00",
+		"direction": "-32.225",
+		"distance": "9.087806671",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-04 0:00:00",
+		"direction": "-33.006",
+		"distance": "36.66408771",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-04 0:00:00",
+		"direction": "-33.039",
+		"distance": "134.3660474",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-01 0:00:00",
+		"direction": "-43.518",
+		"distance": "16.43022324",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-01 0:00:00",
+		"direction": "35.506",
+		"distance": "19.64088198",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-01 0:00:00",
+		"direction": "24.499",
+		"distance": "344.1764816",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-01 0:00:00",
+		"direction": "24.080",
+		"distance": "316.0605386",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-01 0:00:00",
+		"direction": "22.482",
+		"distance": "333.7216972",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-01 0:00:00",
+		"direction": "17.202",
+		"distance": "306.6442089",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-01 0:00:00",
+		"direction": "16.131",
+		"distance": "78.72843327",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-01 0:00:00",
+		"direction": "15.905",
+		"distance": "170.2025018",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-06-01 0:00:00",
+		"direction": "13.930",
+		"distance": "279.8334848",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-29 0:00:00",
+		"direction": "12.178",
+		"distance": "19.08458343",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-29 0:00:00",
+		"direction": "8.363",
+		"distance": "31.26856949",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-29 0:00:00",
+		"direction": "6.629",
+		"distance": "164.9344758",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "6.599",
+		"distance": "5.022691532",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "5.328",
+		"distance": "333.7343451",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "5.144",
+		"distance": "4.438241719",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "1.699",
+		"distance": "11.9713287",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "1.107",
+		"distance": "219.4007934",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-0.604",
+		"distance": "359.4200956",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-4.057",
+		"distance": "317.328566",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-4.353",
+		"distance": "363.2082342",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-5.054",
+		"distance": "323.2545464",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-6.436",
+		"distance": "22.123479",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-7.129",
+		"distance": "150.6600679",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-8.659",
+		"distance": "262.5850513",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-8.965",
+		"distance": "10.52102091",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-9.190",
+		"distance": "8.063124066",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-9.351",
+		"distance": "15.26408232",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-9.738",
+		"distance": "9.187918936",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-11.130",
+		"distance": "19.98250125",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-12.883",
+		"distance": "5.854890249",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-13.544",
+		"distance": "270.9466337",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-13.602",
+		"distance": "144.0033129",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-15.705",
+		"distance": "13.97578619",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-15.986",
+		"distance": "311.5239343",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-18.300",
+		"distance": "232.5748855",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-21.717",
+		"distance": "215.4062237",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-24.427",
+		"distance": "15.39766536",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-26.741",
+		"distance": "13.31429961",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-30.341",
+		"distance": "9.723167109",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-32.135",
+		"distance": "206.8149425",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-32.313",
+		"distance": "243.5276279",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "-37.201",
+		"distance": "70.83299569",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "41.134",
+		"distance": "9.242220879",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-26 0:00:00",
+		"direction": "31.833",
+		"distance": "256.6423595",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-23 0:00:00",
+		"direction": "28.864",
+		"distance": "323.3851247",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-23 0:00:00",
+		"direction": "27.874",
+		"distance": "153.6377118",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-23 0:00:00",
+		"direction": "25.021",
+		"distance": "141.1188698",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-23 0:00:00",
+		"direction": "23.098",
+		"distance": "318.4622259",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-20 0:00:00",
+		"direction": "21.677",
+		"distance": "95.87053835",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-20 0:00:00",
+		"direction": "18.187",
+		"distance": "327.1551577",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-20 0:00:00",
+		"direction": "14.676",
+		"distance": "247.9881726",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-20 0:00:00",
+		"direction": "14.593",
+		"distance": "173.3356304",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-20 0:00:00",
+		"direction": "14.226",
+		"distance": "221.5899291",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-20 0:00:00",
+		"direction": "13.702",
+		"distance": "158.9492005",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-20 0:00:00",
+		"direction": "13.475",
+		"distance": "11.84298454",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-20 0:00:00",
+		"direction": "13.359",
+		"distance": "13.84096549",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-20 0:00:00",
+		"direction": "12.877",
+		"distance": "179.3958033",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-17 0:00:00",
+		"direction": "10.766",
+		"distance": "371.9123932",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-17 0:00:00",
+		"direction": "10.607",
+		"distance": "330.3412656",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-17 0:00:00",
+		"direction": "9.987",
+		"distance": "250.8046006",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "9.984",
+		"distance": "13.32163419",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "9.944",
+		"distance": "215.1637626",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "7.160",
+		"distance": "336.0087392",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "6.254",
+		"distance": "106.3177936",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "5.752",
+		"distance": "353.6246767",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "1.055",
+		"distance": "37.48920346",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "0.625",
+		"distance": "247.587931",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-0.177",
+		"distance": "27.55773969",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-3.155",
+		"distance": "346.5788879",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-4.927",
+		"distance": "152.3669472",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-5.322",
+		"distance": "29.74613165",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-6.939",
+		"distance": "243.9790471",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-9.865",
+		"distance": "64.14095735",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-15.717",
+		"distance": "26.40041192",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-17.002",
+		"distance": "299.3437698",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-18.079",
+		"distance": "17.13697509",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-21.440",
+		"distance": "141.5987131",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-24.787",
+		"distance": "4.440118586",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-25.589",
+		"distance": "17.18731283",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-27.633",
+		"distance": "68.5020985",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-28.021",
+		"distance": "24.48829723",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "-31.789",
+		"distance": "19.07701328",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "40.738",
+		"distance": "261.7428034",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "40.666",
+		"distance": "27.13444269",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "34.694",
+		"distance": "71.68173272",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "33.960",
+		"distance": "128.1256958",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "30.680",
+		"distance": "12.28113518",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "29.537",
+		"distance": "197.1759925",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "28.927",
+		"distance": "279.2555208",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "25.532",
+		"distance": "373.2961709",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "23.419",
+		"distance": "29.49463251",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-14 0:00:00",
+		"direction": "20.691",
+		"distance": "294.1747883",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-11 0:00:00",
+		"direction": "20.353",
+		"distance": "27.23695795",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-11 0:00:00",
+		"direction": "20.149",
+		"distance": "263.1934641",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-11 0:00:00",
+		"direction": "19.147",
+		"distance": "327.1983653",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-11 0:00:00",
+		"direction": "15.561",
+		"distance": "228.7978268",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-08 0:00:00",
+		"direction": "14.254",
+		"distance": "202.3459272",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-08 0:00:00",
+		"direction": "13.306",
+		"distance": "138.0593762",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-08 0:00:00",
+		"direction": "10.182",
+		"distance": "371.7466839",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-08 0:00:00",
+		"direction": "9.879",
+		"distance": "295.2137612",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-08 0:00:00",
+		"direction": "9.082",
+		"distance": "5.565675905",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-08 0:00:00",
+		"direction": "7.930",
+		"distance": "321.7321243",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-08 0:00:00",
+		"direction": "3.664",
+		"distance": "339.3041827",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-08 0:00:00",
+		"direction": "1.331",
+		"distance": "27.95208493",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-08 0:00:00",
+		"direction": "0.324",
+		"distance": "295.4591641",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-05 0:00:00",
+		"direction": "0.133",
+		"distance": "362.210835",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-05 0:00:00",
+		"direction": "0.096",
+		"distance": "203.3662765",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-05 0:00:00",
+		"direction": "-0.092",
+		"distance": "156.9932408",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-0.578",
+		"distance": "268.8507257",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-2.776",
+		"distance": "7.782680131",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-3.433",
+		"distance": "290.6217423",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-3.580",
+		"distance": "177.9854145",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-3.652",
+		"distance": "268.7505645",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-3.662",
+		"distance": "186.6181628",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-5.764",
+		"distance": "255.6300491",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-6.492",
+		"distance": "368.8838741",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-9.381",
+		"distance": "26.00370516",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-9.445",
+		"distance": "188.9263354",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-10.970",
+		"distance": "312.5502525",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-11.361",
+		"distance": "202.635462",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-13.011",
+		"distance": "33.24514819",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-05-02 0:00:00",
+		"direction": "-13.848",
+		"distance": "258.8836109",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-29 0:00:00",
+		"direction": "-14.005",
+		"distance": "261.7748009",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-29 0:00:00",
+		"direction": "-14.779",
+		"distance": "135.3074942",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-29 0:00:00",
+		"direction": "-15.779",
+		"distance": "19.44003975",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-26 0:00:00",
+		"direction": "-17.153",
+		"distance": "185.2762588",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-26 0:00:00",
+		"direction": "-17.280",
+		"distance": "285.9959017",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-26 0:00:00",
+		"direction": "-17.830",
+		"distance": "200.3892462",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-26 0:00:00",
+		"direction": "-18.370",
+		"distance": "335.6823618",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-26 0:00:00",
+		"direction": "-22.782",
+		"distance": "79.27154383",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-23 0:00:00",
+		"direction": "-22.818",
+		"distance": "12.40675969",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-23 0:00:00",
+		"direction": "-23.683",
+		"distance": "301.5933268",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-23 0:00:00",
+		"direction": "-24.434",
+		"distance": "263.7091026",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-23 0:00:00",
+		"direction": "-25.184",
+		"distance": "10.69581817",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-20 0:00:00",
+		"direction": "-25.836",
+		"distance": "322.6877665",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-20 0:00:00",
+		"direction": "-28.851",
+		"distance": "331.0824763",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-20 0:00:00",
+		"direction": "-31.489",
+		"distance": "93.23897442",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-20 0:00:00",
+		"direction": "-32.447",
+		"distance": "313.6102725",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-20 0:00:00",
+		"direction": "-35.630",
+		"distance": "47.0583241",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-20 0:00:00",
+		"direction": "-37.092",
+		"distance": "65.90817343",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-17 0:00:00",
+		"direction": "-39.568",
+		"distance": "144.0699536",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-17 0:00:00",
+		"direction": "36.871",
+		"distance": "7.090483748",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-17 0:00:00",
+		"direction": "35.155",
+		"distance": "363.41908",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-17 0:00:00",
+		"direction": "33.172",
+		"distance": "305.2071074",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-14 0:00:00",
+		"direction": "27.870",
+		"distance": "105.2809177",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-14 0:00:00",
+		"direction": "27.233",
+		"distance": "244.0361244",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-14 0:00:00",
+		"direction": "26.609",
+		"distance": "8.16133026",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-14 0:00:00",
+		"direction": "26.204",
+		"distance": "7.582445698",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-14 0:00:00",
+		"direction": "25.292",
+		"distance": "23.69192999",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-14 0:00:00",
+		"direction": "20.630",
+		"distance": "74.7924423",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-14 0:00:00",
+		"direction": "19.881",
+		"distance": "239.5905602",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-14 0:00:00",
+		"direction": "19.172",
+		"distance": "41.73141295",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-14 0:00:00",
+		"direction": "18.351",
+		"distance": "190.1022849",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-11 0:00:00",
+		"direction": "18.086",
+		"distance": "10.49523878",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-11 0:00:00",
+		"direction": "15.341",
+		"distance": "157.5572563",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-11 0:00:00",
+		"direction": "12.263",
+		"distance": "372.6166812",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "11.421",
+		"distance": "28.42230168",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "9.303",
+		"distance": "106.2672093",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "7.959",
+		"distance": "297.4622731",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "6.897",
+		"distance": "45.05081478",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "6.556",
+		"distance": "32.90659429",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "6.348",
+		"distance": "23.40909902",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "5.126",
+		"distance": "294.159069",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "4.765",
+		"distance": "274.5498467",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "3.682",
+		"distance": "17.63625256",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "2.625",
+		"distance": "288.202759",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-1.391",
+		"distance": "309.7377731",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-2.832",
+		"distance": "63.16145329",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-3.989",
+		"distance": "179.6470578",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-4.449",
+		"distance": "231.1225203",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-5.313",
+		"distance": "4.36652006",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-7.998",
+		"distance": "30.33169632",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-9.499",
+		"distance": "30.25056426",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-11.658",
+		"distance": "353.9453015",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-17.474",
+		"distance": "264.6707882",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-24.338",
+		"distance": "36.12117703",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-24.619",
+		"distance": "13.42910912",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "-27.715",
+		"distance": "302.237647",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "43.535",
+		"distance": "143.3980384",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "40.378",
+		"distance": "246.7101055",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "30.718",
+		"distance": "12.31530939",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "30.444",
+		"distance": "13.16874389",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "27.255",
+		"distance": "236.0813956",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "26.856",
+		"distance": "238.9538504",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "23.126",
+		"distance": "347.4340288",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "22.456",
+		"distance": "22.90381991",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "22.373",
+		"distance": "52.93663969",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-08 0:00:00",
+		"direction": "22.316",
+		"distance": "277.0144955",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-05 0:00:00",
+		"direction": "20.755",
+		"distance": "108.4433345",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-05 0:00:00",
+		"direction": "19.729",
+		"distance": "226.6673584",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-05 0:00:00",
+		"direction": "18.394",
+		"distance": "263.1153634",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-05 0:00:00",
+		"direction": "17.504",
+		"distance": "10.06344694",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-02 0:00:00",
+		"direction": "14.555",
+		"distance": "250.849337",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-02 0:00:00",
+		"direction": "11.065",
+		"distance": "261.4105113",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-02 0:00:00",
+		"direction": "8.410",
+		"distance": "228.1874304",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-02 0:00:00",
+		"direction": "8.339",
+		"distance": "228.6277719",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-02 0:00:00",
+		"direction": "6.492",
+		"distance": "7.211205332",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-02 0:00:00",
+		"direction": "3.914",
+		"distance": "14.03831496",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-02 0:00:00",
+		"direction": "3.475",
+		"distance": "250.9226197",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-02 0:00:00",
+		"direction": "2.990",
+		"distance": "307.4071625",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-04-02 0:00:00",
+		"direction": "1.597",
+		"distance": "77.79488332",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-30 0:00:00",
+		"direction": "1.402",
+		"distance": "307.6417146",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-30 0:00:00",
+		"direction": "-1.260",
+		"distance": "7.01539058",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-30 0:00:00",
+		"direction": "-3.473",
+		"distance": "54.14908849",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-4.566",
+		"distance": "272.2783793",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-10.513",
+		"distance": "343.4457701",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-11.124",
+		"distance": "280.3204426",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-14.816",
+		"distance": "136.7314311",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-14.851",
+		"distance": "107.9896077",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-16.347",
+		"distance": "214.3907857",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-16.778",
+		"distance": "242.7710192",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-17.480",
+		"distance": "5.961456137",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-20.265",
+		"distance": "326.1284114",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-21.107",
+		"distance": "143.7698545",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-28.994",
+		"distance": "326.3848241",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-32.514",
+		"distance": "10.9241017",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "-33.903",
+		"distance": "65.40760633",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "34.768",
+		"distance": "191.557243",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "30.538",
+		"distance": "174.394252",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-27 0:00:00",
+		"direction": "29.689",
+		"distance": "10.68608294",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-24 0:00:00",
+		"direction": "22.927",
+		"distance": "156.1468519",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-24 0:00:00",
+		"direction": "22.870",
+		"distance": "78.5148506",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-24 0:00:00",
+		"direction": "19.007",
+		"distance": "236.841478",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-21 0:00:00",
+		"direction": "18.693",
+		"distance": "85.83376383",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-21 0:00:00",
+		"direction": "18.071",
+		"distance": "8.261488942",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-18 0:00:00",
+		"direction": "16.972",
+		"distance": "306.5042888",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-18 0:00:00",
+		"direction": "15.890",
+		"distance": "308.3632906",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-18 0:00:00",
+		"direction": "15.390",
+		"distance": "311.0154965",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-15 0:00:00",
+		"direction": "15.138",
+		"distance": "7.809534452",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-15 0:00:00",
+		"direction": "13.568",
+		"distance": "68.03635266",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-12 0:00:00",
+		"direction": "12.360",
+		"distance": "185.4183555",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-12 0:00:00",
+		"direction": "7.790",
+		"distance": "392.6915091",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-12 0:00:00",
+		"direction": "5.149",
+		"distance": "397.9262735",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-09 0:00:00",
+		"direction": "3.633",
+		"distance": "227.1426319",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-09 0:00:00",
+		"direction": "3.532",
+		"distance": "44.32118008",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-06 0:00:00",
+		"direction": "2.919",
+		"distance": "157.0961896",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-06 0:00:00",
+		"direction": "2.493",
+		"distance": "117.7034633",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-06 0:00:00",
+		"direction": "1.889",
+		"distance": "311.9668912",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-03 0:00:00",
+		"direction": "-0.394",
+		"distance": "263.6791781",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-03-03 0:00:00",
+		"direction": "-1.012",
+		"distance": "309.7798012",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-28 0:00:00",
+		"direction": "-1.163",
+		"distance": "220.670643",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-28 0:00:00",
+		"direction": "-2.274",
+		"distance": "27.4831708",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-28 0:00:00",
+		"direction": "-3.592",
+		"distance": "334.104863",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-25 0:00:00",
+		"direction": "-4.064",
+		"distance": "11.96623514",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-25 0:00:00",
+		"direction": "-5.209",
+		"distance": "279.4336773",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-22 0:00:00",
+		"direction": "-7.595",
+		"distance": "236.6897886",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-8.490",
+		"distance": "278.078899",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-8.651",
+		"distance": "141.7858142",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-9.070",
+		"distance": "297.9356539",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-9.844",
+		"distance": "115.5304068",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-10.007",
+		"distance": "341.6326403",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-12.335",
+		"distance": "265.2701057",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-13.618",
+		"distance": "351.1706092",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-16.370",
+		"distance": "276.9481796",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-17.695",
+		"distance": "273.1936361",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-23.213",
+		"distance": "295.0730869",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-24.496",
+		"distance": "63.80078025",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-24.683",
+		"distance": "5.086936621",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-32.015",
+		"distance": "227.7586066",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-33.102",
+		"distance": "328.7824513",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-34.187",
+		"distance": "76.59306553",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-19 0:00:00",
+		"direction": "-34.555",
+		"distance": "210.5085791",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-16 0:00:00",
+		"direction": "-37.871",
+		"distance": "35.58274319",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-16 0:00:00",
+		"direction": "37.506",
+		"distance": "71.45231859",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-16 0:00:00",
+		"direction": "28.867",
+		"distance": "5.357963216",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-16 0:00:00",
+		"direction": "25.091",
+		"distance": "10.38282035",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-13 0:00:00",
+		"direction": "21.573",
+		"distance": "284.8446291",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-13 0:00:00",
+		"direction": "18.943",
+		"distance": "26.72915069",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-13 0:00:00",
+		"direction": "17.806",
+		"distance": "33.12975549",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-13 0:00:00",
+		"direction": "17.234",
+		"distance": "24.06359754",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-13 0:00:00",
+		"direction": "12.526",
+		"distance": "251.6519027",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-13 0:00:00",
+		"direction": "12.303",
+		"distance": "269.8091191",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-13 0:00:00",
+		"direction": "11.907",
+		"distance": "35.95062022",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-13 0:00:00",
+		"direction": "11.594",
+		"distance": "55.0016642",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-13 0:00:00",
+		"direction": "11.287",
+		"distance": "165.1267587",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-10 0:00:00",
+		"direction": "8.417",
+		"distance": "125.0030178",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-10 0:00:00",
+		"direction": "7.866",
+		"distance": "39.3305016",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-10 0:00:00",
+		"direction": "6.252",
+		"distance": "194.8045042",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "4.881",
+		"distance": "288.2483106",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "4.421",
+		"distance": "227.6226116",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "3.719",
+		"distance": "327.3659852",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-1.189",
+		"distance": "383.6299811",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-3.752",
+		"distance": "248.2630709",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-5.280",
+		"distance": "12.31294229",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-5.926",
+		"distance": "388.6722933",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-10.267",
+		"distance": "230.523468",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-12.604",
+		"distance": "13.15904276",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-16.397",
+		"distance": "336.787004",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-18.697",
+		"distance": "116.9905291",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-18.816",
+		"distance": "296.4425079",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-22.726",
+		"distance": "17.52477635",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-26.357",
+		"distance": "62.39162909",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-28.257",
+		"distance": "22.60222974",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-33.342",
+		"distance": "269.8028967",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-34.725",
+		"distance": "40.1218557",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "-36.497",
+		"distance": "37.62263368",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "41.146",
+		"distance": "132.7016114",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "40.354",
+		"distance": "217.1867842",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "38.216",
+		"distance": "83.43971221",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "36.839",
+		"distance": "315.8419087",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "34.258",
+		"distance": "320.1083512",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "27.921",
+		"distance": "6.18576828",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "26.858",
+		"distance": "306.4781818",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "25.192",
+		"distance": "149.8270299",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "23.332",
+		"distance": "3.836571223",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "23.277",
+		"distance": "14.56032602",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "18.905",
+		"distance": "268.5458691",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "18.416",
+		"distance": "78.63050128",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "18.402",
+		"distance": "17.73151983",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-07 0:00:00",
+		"direction": "17.716",
+		"distance": "118.1252711",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-04 0:00:00",
+		"direction": "13.218",
+		"distance": "33.06945627",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-04 0:00:00",
+		"direction": "11.338",
+		"distance": "346.907678",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-04 0:00:00",
+		"direction": "10.535",
+		"distance": "311.7585158",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-04 0:00:00",
+		"direction": "9.124",
+		"distance": "319.4641695",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-01 0:00:00",
+		"direction": "8.517",
+		"distance": "175.5027742",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-01 0:00:00",
+		"direction": "8.052",
+		"distance": "149.7266505",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-01 0:00:00",
+		"direction": "7.499",
+		"distance": "8.841242677",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-01 0:00:00",
+		"direction": "4.693",
+		"distance": "9.967039543",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-01 0:00:00",
+		"direction": "4.647",
+		"distance": "414.1380394",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-01 0:00:00",
+		"direction": "1.793",
+		"distance": "393.3183592",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-01 0:00:00",
+		"direction": "-1.005",
+		"distance": "3.860172416",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-01 0:00:00",
+		"direction": "-2.193",
+		"distance": "315.2392248",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-02-01 0:00:00",
+		"direction": "-3.685",
+		"distance": "376.2211323",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-29 0:00:00",
+		"direction": "-6.612",
+		"distance": "50.43518278",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-29 0:00:00",
+		"direction": "-7.663",
+		"distance": "6.795427306",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-29 0:00:00",
+		"direction": "-7.984",
+		"distance": "275.3250408",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-9.952",
+		"distance": "8.37719978",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-10.149",
+		"distance": "15.29819833",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-10.455",
+		"distance": "202.6737714",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-12.055",
+		"distance": "6.199491352",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-12.432",
+		"distance": "38.49297026",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-14.035",
+		"distance": "293.8330012",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-14.136",
+		"distance": "4.183632255",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-14.760",
+		"distance": "314.7453731",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-15.100",
+		"distance": "59.02081343",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-15.307",
+		"distance": "242.4524875",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-16.275",
+		"distance": "6.153704558",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-18.919",
+		"distance": "405.9455169",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-27.037",
+		"distance": "10.80179171",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-26 0:00:00",
+		"direction": "-28.560",
+		"distance": "296.4121818",
+		"event_type": "Practice"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-23 0:00:00",
+		"direction": "-30.683",
+		"distance": "202.9078065",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-23 0:00:00",
+		"direction": "-32.855",
+		"distance": "15.38923343",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-23 0:00:00",
+		"direction": "-32.953",
+		"distance": "20.1775147",
+		"event_type": "Game"
+	},
+	{
+		"id": "null",
+		"date": "2015-01-20 0:00:00",
+		"direction": "-38.079",
+		"distance": "250.401355",
+		"event_type": "Practice"
+	}
+]
